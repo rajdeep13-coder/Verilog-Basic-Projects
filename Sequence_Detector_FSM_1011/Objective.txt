@@ -1,0 +1,7 @@
+Detect the bit sequence 1011 from a serial input stream and output 1 only when the full pattern is matched.
+
+>Input: in (1-bit serial input)
+>Output: out (1 when 1011 is detected)
+>Clocked FSM (sequential logic)
+>Finite State Machine (FSM) Type: Moore Machine (output depends on state only)
+
